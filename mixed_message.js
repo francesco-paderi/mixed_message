@@ -1,7 +1,7 @@
 const dayQuotes = () => {
   const arr = [
     'When you have a dream, youve got to grab it and never let go.— Carol Burnett', 
-    
+
     '\"Nothing is impossible. The word itself says \'I\'m possible!\'\" — Audrey Hepburn', 
 
     '\"There is nothing impossible to they who will try.\" — Alexander the Great',
@@ -49,5 +49,6 @@ const dayQuotes = () => {
   }
 }
 
+//ciao
 
 console.log(dayQuotes());
